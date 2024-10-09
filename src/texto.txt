@@ -1,0 +1,6 @@
+Desenvolva um sistema para cadastro de produtos e seus repsctivos componentes em um insdustria.
+O sistema deverá ser implementado em java ou python e deve incluir uma interface que permita listar
+os produtos cadastrados. As classes fornecidas a seguir representam os modelos que devem ser implementadas
+no projeto
+
+implemente os arquivos de contollers e actions
